@@ -1,0 +1,17 @@
+{
+  "name": "chaicode",
+  "version": "1.0.0",
+  "description": "This is a sample app to build confidence in backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [
+    "chai",
+    "code",
+    "myself"
+  ],
+  "author": "Shreyank Singh Gahadvala",
+  "license": "ISC"
+}
